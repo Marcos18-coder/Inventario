@@ -1,6 +1,6 @@
 # Inventario
 
-Es un sistema que sirve para registrar los productos, las compras y ventas, los usuarios, las entradas y salidas de los productos, y los proveedores que se tienen.
+Es un sistema que sirve para llevar un control de los productos, las compras y ventas, los usuarios, las entradas y salidas de los productos, y los proveedores que se tienen.
 
 [![Captura-1.png](https://i.postimg.cc/jjbFwfFd/Captura-1.png)](https://postimg.cc/dh5BghFz)
 
