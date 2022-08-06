@@ -1,6 +1,6 @@
 # Inventario
 
-Sistema de inventario, desarrollado en colaboración con los alumnos de administración, que sirve para llevar un control de los productos, las compras y ventas, los usuarios, las entradas y salidas de los productos, y los proveedores que se tienen.
+Sistema de inventario, desarrollado en colaboración con los alumnos de la carrera en administración, que sirve para llevar un control de los productos, las compras y ventas, los usuarios, las entradas y salidas de los productos, y los proveedores que se tienen.
 
 [![Captura-1.png](https://i.postimg.cc/jjbFwfFd/Captura-1.png)](https://postimg.cc/dh5BghFz)
 
